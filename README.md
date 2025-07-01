@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teodoravadani
 
-- 🌱 I’m currently learning ReactJS
-- 👀 I’m interested in ... Python, GO, HTML, CSS, JS
+- 🌱 I’m currently working on TopCalls
+- 👀 I’m interested in JS, Python, GO, HTML, CSS, 
 - 👯 I’m looking to collaborate on anything
 - 📫 You can reach me at: avadaniteodor@gmail.com
 - 😄 Pronouns: Teo
