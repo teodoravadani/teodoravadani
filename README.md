@@ -1,6 +1,9 @@
 - 👋 Hi, I'm @teodoravadani (Teodor Avadani, Romania)
-- 🌱 Currently building [qodesign](https://qodesign.dev): animated UI components you can paste, with the source code. Also working on TopCalls.
-- 🆓 Free pieces: [qodesign-free](https://github.com/teodoravadani/qodesign-free)
+- 🛠 What I'm building:
+  - [qodesign](https://qodesign.dev): animated UI components you can paste into your project, with the source code. Free pieces in [qodesign-free](https://github.com/teodoravadani/qodesign-free).
+  - [topcalls.ai](https://topcalls.ai): AI voice agents that run outbound sales calls, qualify leads and book appointments.
+  - [diggit.ro](https://diggit.ro): an e-commerce platform for merchants in Romania, with cash on delivery and integrated couriers.
+  - [prwn.app](https://prwn.app): a development environment for running all your AI coding agents in one window. Coming soon.
 - 👀 I'm interested in JS, Python, GO, HTML, CSS
 - 👯 I'm looking to collaborate on anything
 - ✍️ I write on [dev.to](https://dev.to/teodoravadani) and [Hashnode](https://teodoravadani.hashnode.dev)
