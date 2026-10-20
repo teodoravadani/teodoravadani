@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @teodoravadani
-
-- 🌱 I’m currently working on TopCalls
-- 👀 I’m interested in JS, Python, GO, HTML, CSS, 
-- 👯 I’m looking to collaborate on anything
-- 📫 You can reach me at: avadaniteodor@gmail.com
+- 👋 Hi, I'm @teodoravadani (Teodor Avadani, Romania)
+- 🌱 Currently building [qodesign](https://qodesign.dev): animated UI components you can paste, with the source code. Also working on TopCalls.
+- 🆓 Free pieces: [qodesign-free](https://github.com/teodoravadani/qodesign-free)
+- 👀 I'm interested in JS, Python, GO, HTML, CSS
+- 👯 I'm looking to collaborate on anything
+- ✍️ I write on [dev.to](https://dev.to/teodoravadani) and [Hashnode](https://teodoravadani.hashnode.dev)
+- 📫 Reach me: avadaniteodor@gmail.com · [X](https://x.com/teodoravadani) · [LinkedIn](https://www.linkedin.com/in/teodoravadani/) · [Instagram](https://instagram.com/teodoravadani) · [@qodesign.dev](https://instagram.com/qodesign.dev)
 - 😄 Pronouns: Teo
-- ⚡ Fun fact: It’s all 0’s and 1’s
+- ⚡ Fun fact: It's all 0's and 1's
